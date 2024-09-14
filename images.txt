@@ -1,1 +1,1 @@
-mysql:8.4
+oceanhub/mysql:8.4
