@@ -1,3 +1,6 @@
-mcr.microsoft.com/dotnet/aspnet:8.0
-mcr.microsoft.com/dotnet/aspnet:6.0
-mcr.microsoft.com/dotnet/aspnet:9.0
+mcr.microsoft.com/dotnet/aspnet:8.0.7
+mcr.microsoft.com/dotnet/aspnet:6.0.9
+nginx
+mysql
+selenium/standalone-chrome
+mcr.microsoft.com/dotnet/sdk:6.0
