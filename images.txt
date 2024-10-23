@@ -1,3 +1,1 @@
-sonarqube:lts-community
-sonarqube:lts
-sonarqube:lts-developer
+sonarqube:10.7.0-community
