@@ -1,1 +1,1 @@
-sonarqube:10.7.0-community
+mysql:8.0.27
