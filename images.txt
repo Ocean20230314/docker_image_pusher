@@ -1,2 +1,1 @@
-jexus/mono:latest
-azraelrabbit/monupw:latest
+mono:6.12
