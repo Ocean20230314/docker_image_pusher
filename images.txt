@@ -1,1 +1,1 @@
-jexus/mono:latest
+hpgy/mono-xsp4
